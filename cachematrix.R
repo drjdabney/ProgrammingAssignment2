@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Assignment to demonstrate caching information to use later
+## This code specifically allows caching of inverse of a matrix.
+## Based on example code used in assignment description:
+##     Peer-graded Assignment: Programming Assignment 2: Lexical Scoping
 
 ## makeCacheMatrix: creates a special "matrix" object that can cache its inverse
 
